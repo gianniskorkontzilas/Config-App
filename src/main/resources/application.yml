@@ -4,6 +4,13 @@ spring:
 #  profiles:
 #    active: dev
 
+build:
+  id: 10101
+  version: 10.2.3
+  name: "Application"
+  type: "Application Build"
+
+
 #build:
 #  id: ${ID:defaultId}
 #  version: ${VERSION:defaultVersion}
