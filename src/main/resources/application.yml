@@ -6,7 +6,7 @@ spring:
 
 build:
   id: 10101
-  version: 10.2.3
+  version: 10 .2.3
   name: "Application"
   type: "Application Build"
 
