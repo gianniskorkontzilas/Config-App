@@ -5,6 +5,13 @@ spring:
 #    active: dev
 
 #build:
+#  id: ${ID:defaultId}
+#  version: ${VERSION:defaultVersion}
+#  name: ${NAME:defaultName}
+
+
+
+#build:
 #  id: ${ID}
 #  version: ${VERSION}
 #  name: ${NAME}
